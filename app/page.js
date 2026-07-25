@@ -4,6 +4,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold">🚀 Deployed with GitHub Actions</h1>
       <p className="text-gray-600">
         Next.js → GitHub → Pages, automatically on every push.
+        <h1>My name is Palvi Soni</h1>
       </p>
     </main>
   );
